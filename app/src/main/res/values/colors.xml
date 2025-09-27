@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E88E5</color>       <!-- xanh biển -->
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorSecondary">#42A5F5</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorBackground">#F4F6F8</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorText">#111111</color>
+    <color name="colorTextMuted">#6B7280</color>
+    <color name="colorDivider">#E5E7EB</color>
+    <color name="colorInputStroke">#D1D5DB</color>
+    <color name="colorSuccess">#10B981</color>
+    <color name="colorDanger">#EF4444</color>
+</resources>
